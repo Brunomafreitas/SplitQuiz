@@ -32,7 +32,7 @@ function setup() {
 	//song.play();
 	cv = createCanvas(windowWidth , windowHeight)
 	centerCanvas()
-	cv.background(255, 255, 255);
+	cv.background(255, 255, 254);
 
 	
 	// Start the socket connection
